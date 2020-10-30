@@ -1,8 +1,13 @@
 Hello! I'm Anne
 12
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello, I'm Ben changing this
 =======
 
 I\m Anne, stop change my files!
 >>>>>>> 78548a3... I will try to change this without success
+=======
+
+I\m Anne, stop change my files!
+>>>>>>> master
